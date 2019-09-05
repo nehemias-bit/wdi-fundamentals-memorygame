@@ -103,3 +103,24 @@ footer {
     color: #F15B31;
     font-weight: 700;
 }
+
+.resetButton {
+    position: relative;
+    left: 418px;
+    margin: 0 auto;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: Raleway, sans-serif;
+    color: white;
+    background-color: #00A6B3;
+}
+
+.resetButton:hover {
+    background-color: #F15B31;
+}
+
+#linkedin {
+    position: relative;
+    left: 63px;
+    top: 20px;
+}
